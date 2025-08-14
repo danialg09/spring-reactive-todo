@@ -1,1 +1,1 @@
-rootProject.name = "skillbox-seven-app"
+rootProject.name = "reactive-todo"
